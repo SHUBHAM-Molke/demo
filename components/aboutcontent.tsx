@@ -538,41 +538,42 @@ const cards8 = [
        
       </div>
     ),
-    className: "md:col-span-2",
+    className: "col-span-1",
     thumbnail:"/images/15.1.jpg"
       },
+      {
+        id: 37,
+        content: (
+          <div>
+            <p className="font-bold text-4xl text-white">NJFC IN NASHIK</p>
+            
+          </div>
+        ),
+        className: "col-span-1",
+        thumbnail:"/images/15.2.jpg"
+          },
+    
+    
+    
+    
+    
+      {
+        id: 38,
+        content:(
+          <div>
+            <p className="font-bold text-4xl text-white">NJFC IN NASHIK</p>
+            
+          </div>
+        ),
+        className: "md:col-span-2",
+        thumbnail:"/images/15.3.jpg"
+          },
 
 ];
  
 const cards9 = [
 
-  {
-    id: 37,
-    content: (
-      <div>
-        <p className="font-bold text-4xl text-white">NJFC IN NASHIK</p>
-        
-      </div>
-    ),
-    className: "md:col-span-2",
-    thumbnail:"/images/15.2.jpg"
-      },
-
-
-
-
-
-  {
-    id: 38,
-    content:(
-      <div>
-        <p className="font-bold text-4xl text-white">NJFC IN NASHIK</p>
-        
-      </div>
-    ),
-    className: "col-span-1",
-    thumbnail:"/images/15.3.jpg"
-      },
+  
   {
     id: 39,
     content: (
