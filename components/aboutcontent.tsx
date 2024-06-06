@@ -167,7 +167,7 @@ const cards = [
       </div>
     ),
     className: "md:col-span-2",
-    thumbnail:"/images/4.1.jpg"
+    thumbnail:"/images/3.2.jpg"
       },
 
 ];
@@ -183,7 +183,7 @@ const cards1 = [
       </div>
     ),
     className: "md:col-span-2",
-    thumbnail:"/images/5.1.jpg"
+    thumbnail:"/images/4.1.jpg"
       },
 
 
@@ -199,7 +199,7 @@ const cards1 = [
       </div>
     ),
     className: "col-span-1",
-    thumbnail:"/images/6.1.jpg"
+    thumbnail:"/images/4.2.jpg"
       },
   {
     id: 7,
@@ -211,7 +211,7 @@ const cards1 = [
       </div>
     ),
     className: "col-span-1",
-    thumbnail:"/images/7.jpg"
+    thumbnail:"/images/5.1.jpg"
       },
   {
     id: 8,
@@ -222,7 +222,7 @@ const cards1 = [
       </div>
     ),
     className: "md:col-span-2",
-    thumbnail:"/images/8.1.jpg"
+    thumbnail:"/images/5.2.jpg"
       },
 
 ];
@@ -239,7 +239,7 @@ const cards2 = [
         ),
         className: "md:col-span-2",
         thumbnail:
-          "/images/9.1.jpg",
+          "/images/6.1.jpg",
       },
       {
         id: 10,
@@ -251,7 +251,7 @@ const cards2 = [
         ),
         className: "col-span-1",
         thumbnail:
-        "/images/10.1.jpg",
+        "/images/6.2.jpg",
       },
       {
         id: 11,
@@ -262,7 +262,7 @@ const cards2 = [
           </div>
         ),
         className: "col-span-1",
-        thumbnail:"/images/11.1.jpg"
+        thumbnail:"/images/7.jpg"
             },
       {
         id: 12,
@@ -273,7 +273,7 @@ const cards2 = [
           </div>
         ),
         className: "md:col-span-2",
-        thumbnail:"/images/12.1.jpg"
+        thumbnail:"/images/8.1.jpg"
           },
 
 ];
@@ -288,7 +288,7 @@ const cards3 = [
           </div>
         ),
         className: "md:col-span-2",
-        thumbnail:"/images/13.1.jpg"
+        thumbnail:"/images/8.2.jpg"
           },
       {
         id: 14,
@@ -299,7 +299,7 @@ const cards3 = [
           </div>
         ),
         className: "col-span-1",
-        thumbnail:"/images/14.1.jpg"
+        thumbnail:"/images/9.1.jpg"
           },
       {
         id: 15,
@@ -311,7 +311,7 @@ const cards3 = [
           </div>
         ),
         className: "col-span-1",
-        thumbnail:"/images/15.1.jpg"
+        thumbnail:"/images/9.2.jpg"
           },
       {
         id: 16,
@@ -322,12 +322,12 @@ const cards3 = [
           </div>
         ),
         className: "md:col-span-2",
-        thumbnail:"/images/16.1.jpg"
+        thumbnail:"/images/9.3.jpg"
           },
 ];
 const cards4 = [
   {
-    id: 13,
+    id: 17,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
@@ -335,10 +335,10 @@ const cards4 = [
       </div>
     ),
     className: "md:col-span-2",
-    thumbnail:"/images/13.1.jpg"
+    thumbnail:"/images/10.1.jpg"
       },
   {
-    id: 14,
+    id: 18,
     content:(
       <div>
         <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
@@ -346,10 +346,10 @@ const cards4 = [
       </div>
     ),
     className: "col-span-1",
-    thumbnail:"/images/14.1.jpg"
+    thumbnail:"/images/10.2.jpg"
       },
   {
-    id: 15,
+    id: 19,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
@@ -358,10 +358,10 @@ const cards4 = [
       </div>
     ),
     className: "col-span-1",
-    thumbnail:"/images/15.1.jpg"
+    thumbnail:"/images/10.3.jpg"
       },
   {
-    id: 16,
+    id: 20,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
@@ -369,12 +369,12 @@ const cards4 = [
       </div>
     ),
     className: "md:col-span-2",
-    thumbnail:"/images/16.1.jpg"
+    thumbnail:"/images/10.4.jpg"
       },
 ];
 const cards5 = [
   {
-    id: 13,
+    id: 21,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
@@ -382,10 +382,10 @@ const cards5 = [
       </div>
     ),
     className: "md:col-span-2",
-    thumbnail:"/images/13.1.jpg"
+    thumbnail:"/images/11.1.jpg"
       },
   {
-    id: 14,
+    id: 22,
     content:(
       <div>
         <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
@@ -393,10 +393,10 @@ const cards5 = [
       </div>
     ),
     className: "col-span-1",
-    thumbnail:"/images/14.1.jpg"
+    thumbnail:"/images/11.2.jpg"
       },
   {
-    id: 15,
+    id: 23,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
@@ -405,10 +405,10 @@ const cards5 = [
       </div>
     ),
     className: "col-span-1",
-    thumbnail:"/images/15.1.jpg"
+    thumbnail:"/images/12.1.jpg"
       },
   {
-    id: 16,
+    id: 24,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
@@ -416,12 +416,12 @@ const cards5 = [
       </div>
     ),
     className: "md:col-span-2",
-    thumbnail:"/images/16.1.jpg"
+    thumbnail:"/images/12.2.jpg"
       },
 ];
 const cards6 = [
   {
-    id: 13,
+    id: 25,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
@@ -429,10 +429,10 @@ const cards6 = [
       </div>
     ),
     className: "md:col-span-2",
-    thumbnail:"/images/13.1.jpg"
+    thumbnail:"/images/12.3.jpg"
       },
   {
-    id: 14,
+    id: 26,
     content:(
       <div>
         <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
@@ -440,10 +440,10 @@ const cards6 = [
       </div>
     ),
     className: "col-span-1",
-    thumbnail:"/images/14.1.jpg"
+    thumbnail:"/images/12.4.jpg"
       },
   {
-    id: 15,
+    id: 27,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
@@ -452,10 +452,10 @@ const cards6 = [
       </div>
     ),
     className: "col-span-1",
-    thumbnail:"/images/15.1.jpg"
+    thumbnail:"/images/13.1.jpg"
       },
   {
-    id: 16,
+    id: 28,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
@@ -463,12 +463,12 @@ const cards6 = [
       </div>
     ),
     className: "md:col-span-2",
-    thumbnail:"/images/16.1.jpg"
+    thumbnail:"/images/13.2.jpg"
       },
 ];
 const cards7 = [
   {
-    id: 13,
+    id: 29,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
@@ -476,10 +476,10 @@ const cards7 = [
       </div>
     ),
     className: "md:col-span-2",
-    thumbnail:"/images/13.1.jpg"
+    thumbnail:"/images/13.3.jpg"
       },
   {
-    id: 14,
+    id: 30,
     content:(
       <div>
         <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
@@ -490,7 +490,7 @@ const cards7 = [
     thumbnail:"/images/14.1.jpg"
       },
   {
-    id: 15,
+    id: 31,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
@@ -499,10 +499,117 @@ const cards7 = [
       </div>
     ),
     className: "col-span-1",
-    thumbnail:"/images/15.1.jpg"
+    thumbnail:"/images/14.2.jpg"
       },
   {
-    id: 16,
+    id: 32,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/14.3.jpg"
+      },
+];
+
+
+
+
+const cards8 = [
+  {
+    id: 33,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">Rev. Romeo S Gophane 1982</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:
+      "/images/14.2.jpg",
+  },
+  {
+    id: 34,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">NJFC 1st church established in Gujarat 1987</p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:
+    "/images/14.3.jpg",
+  },
+  {
+    id: 35,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">NJFC started in Ulhasnagar in 1993</p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/14.4.jpg"
+        },
+  {
+    id: 36,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+       
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/15.1.jpg"
+      },
+
+];
+ 
+const cards9 = [
+
+  {
+    id: 37,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/15.2.jpg"
+      },
+
+
+
+
+
+  {
+    id: 38,
+    content:(
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/15.3.jpg"
+      },
+  {
+    id: 39,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-normal text-base text-white"></p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/15.4.jpg"
+      },
+  {
+    id: 40,
     content: (
       <div>
         <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
@@ -512,6 +619,284 @@ const cards7 = [
     className: "md:col-span-2",
     thumbnail:"/images/16.1.jpg"
       },
+
+];
+ 
+const cards10 = [
+
+      {
+        id: 41,
+        content: (
+          <div>
+            <p className="font-bold text-4xl text-white">Rev. Romeo S Gophane 1982</p>
+            
+          </div>
+        ),
+        className: "md:col-span-2",
+        thumbnail:
+          "/images/16.2.jpg",
+      },
+      {
+        id: 42,
+        content: (
+          <div>
+            <p className="font-bold text-4xl text-white">NJFC 1st church established in Gujarat 1987</p>
+            
+          </div>
+        ),
+        className: "col-span-1",
+        thumbnail:
+        "/images/16.3.jpg",
+      },
+      {
+        id: 43,
+        content: (
+          <div>
+            <p className="font-bold text-4xl text-white">NJFC started in Ulhasnagar in 1993</p>
+            
+          </div>
+        ),
+        className: "col-span-1",
+        thumbnail:"/images/16.4.jpg"
+            },
+      {
+        id: 44,
+        content: (
+          <div>
+            <p className="font-bold text-4xl text-white">NJFC started in Ulhasnagar in 1993</p>
+           
+          </div>
+        ),
+        className: "md:col-span-2",
+        thumbnail:"/images/17.1.jpg"
+          },
+
+];
+ 
+const cards11 = [
+      {
+        id: 45,
+        content: (
+          <div>
+            <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+            
+          </div>
+        ),
+        className: "md:col-span-2",
+        thumbnail:"/images/17.2.jpg"
+          },
+      {
+        id: 46,
+        content:(
+          <div>
+            <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+            
+          </div>
+        ),
+        className: "col-span-1",
+        thumbnail:"/images/17.3.jpg"
+          },
+      {
+        id: 47,
+        content: (
+          <div>
+            <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+            <p className="font-normal text-base text-white"></p>
+            
+          </div>
+        ),
+        className: "col-span-1",
+        thumbnail:"/images/17.4.jpg"
+          },
+      {
+        id: 48,
+        content: (
+          <div>
+            <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+            
+          </div>
+        ),
+        className: "md:col-span-2",
+        thumbnail:"/images/18.1.jpg"
+          },
+];
+const cards12 = [
+  {
+    id: 49,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/18.2.jpg"
+      },
+  {
+    id: 50,
+    content:(
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/18.3.jpg"
+      },
+  {
+    id: 51,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-normal text-base text-white"></p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/18.4.jpg"
+      },
+  {
+    id: 52,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/19.1.jpg"
+      },
+];
+const cards13 = [
+  {
+    id: 53,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/19.2.jpg"
+      },
+  {
+    id: 54,
+    content:(
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/19.3.jpg"
+      },
+  {
+    id: 55,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-normal text-base text-white"></p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/19.4.jpg"
+      },
+  {
+    id: 56,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/20.1.jpg"
+      },
+];
+const cards14 = [
+  {
+    id: 57,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/20.2.jpg"
+      },
+  {
+    id: 58,
+    content:(
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/20.3.jpg"
+      },
+  {
+    id: 59,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-normal text-base text-white"></p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/20.4.jpg"
+      },
+  {
+    id: 60,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/21.1.jpg"
+      },
+];
+const cards15 = [
+  {
+    id: 61,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/21.2.jpg"
+      },
+  {
+    id: 62,
+    content:(
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/22.1.jpg"
+      },
+  {
+    id: 63,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-normal text-base text-white"></p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/22.2.jpg"
+      },
+  
 ];
 export default function AboutContent(){
     return (
@@ -524,6 +909,14 @@ export default function AboutContent(){
       <LayoutGrid cards={cards5} />
       <LayoutGrid cards={cards6} />
       <LayoutGrid cards={cards7} />
+      <LayoutGrid cards={cards8} />
+      <LayoutGrid cards={cards9} />
+      <LayoutGrid cards={cards10} />
+      <LayoutGrid cards={cards11} />
+      <LayoutGrid cards={cards12} />
+      <LayoutGrid cards={cards13} />
+      <LayoutGrid cards={cards14} />
+      <LayoutGrid cards={cards15} />
     </div>
       );
 }
