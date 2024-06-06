@@ -884,18 +884,7 @@ const cards15 = [
     className: "col-span-1",
     thumbnail:"/images/22.1.jpg"
       },
-  {
-    id: 63,
-    content: (
-      <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
-        <p className="font-normal text-base text-white"></p>
-        
-      </div>
-    ),
-    className: "col-span-1",
-    thumbnail:"/images/22.2.jpg"
-      },
+
   
 ];
 export default function AboutContent(){
