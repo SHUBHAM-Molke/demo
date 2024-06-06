@@ -325,6 +325,194 @@ const cards3 = [
         thumbnail:"/images/16.1.jpg"
           },
 ];
+const cards4 = [
+  {
+    id: 13,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/13.1.jpg"
+      },
+  {
+    id: 14,
+    content:(
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/14.1.jpg"
+      },
+  {
+    id: 15,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-normal text-base text-white"></p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/15.1.jpg"
+      },
+  {
+    id: 16,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/16.1.jpg"
+      },
+];
+const cards5 = [
+  {
+    id: 13,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/13.1.jpg"
+      },
+  {
+    id: 14,
+    content:(
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/14.1.jpg"
+      },
+  {
+    id: 15,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-normal text-base text-white"></p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/15.1.jpg"
+      },
+  {
+    id: 16,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/16.1.jpg"
+      },
+];
+const cards6 = [
+  {
+    id: 13,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/13.1.jpg"
+      },
+  {
+    id: 14,
+    content:(
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/14.1.jpg"
+      },
+  {
+    id: 15,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-normal text-base text-white"></p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/15.1.jpg"
+      },
+  {
+    id: 16,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/16.1.jpg"
+      },
+];
+const cards7 = [
+  {
+    id: 13,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/13.1.jpg"
+      },
+  {
+    id: 14,
+    content:(
+      <div>
+        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/14.1.jpg"
+      },
+  {
+    id: 15,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-normal text-base text-white"></p>
+        
+      </div>
+    ),
+    className: "col-span-1",
+    thumbnail:"/images/15.1.jpg"
+      },
+  {
+    id: 16,
+    content: (
+      <div>
+        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        
+      </div>
+    ),
+    className: "md:col-span-2",
+    thumbnail:"/images/16.1.jpg"
+      },
+];
 export default function AboutContent(){
     return (
       <div className="h-screen py-4 w-full bg-black flex-grow overflow-y-auto">
@@ -332,6 +520,10 @@ export default function AboutContent(){
       <LayoutGrid cards={cards1} />
       <LayoutGrid cards={cards2} />
       <LayoutGrid cards={cards3} />
+      <LayoutGrid cards={cards4} />
+      <LayoutGrid cards={cards5} />
+      <LayoutGrid cards={cards6} />
+      <LayoutGrid cards={cards7} />
     </div>
       );
 }
