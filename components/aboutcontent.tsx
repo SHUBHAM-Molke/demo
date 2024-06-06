@@ -162,7 +162,7 @@ const cards = [
     id: 4,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">NJFC started in Ulhasnagar in 1993</p>
        
       </div>
     ),
@@ -178,7 +178,7 @@ const cards1 = [
     id: 5,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-bold text-4xl text-white">By the Grace of God,I went to Kerala for ministry in 1994</p>
         
       </div>
     ),
@@ -194,7 +194,7 @@ const cards1 = [
     id: 6,
     content:(
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">By the Grace of God,I went to Kerala for ministry in 1994</p>
         
       </div>
     ),
@@ -233,7 +233,7 @@ const cards2 = [
         id: 9,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">Rev. Romeo S Gophane 1982</p>
+            <p className="font-bold text-4xl text-white">1997</p>
             
           </div>
         ),
@@ -245,7 +245,7 @@ const cards2 = [
         id: 10,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">NJFC 1st church established in Gujarat 1987</p>
+            <p className="font-bold text-4xl text-white">1997</p>
             
           </div>
         ),
@@ -257,7 +257,7 @@ const cards2 = [
         id: 11,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">NJFC started in Ulhasnagar in 1993</p>
+            <p className="font-bold text-4xl text-white">1999</p>
             
           </div>
         ),
@@ -268,7 +268,7 @@ const cards2 = [
         id: 12,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">NJFC started in Ulhasnagar in 1993</p>
+            <p className="font-bold text-4xl text-white">2002</p>
            
           </div>
         ),
@@ -283,7 +283,7 @@ const cards3 = [
         id: 13,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+            <p className="font-bold text-4xl text-white">2002</p>
             
           </div>
         ),
@@ -294,7 +294,7 @@ const cards3 = [
         id: 14,
         content:(
           <div>
-            <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+            <p className="font-bold text-4xl text-white">2006</p>
             
           </div>
         ),
@@ -305,8 +305,7 @@ const cards3 = [
         id: 15,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
-            <p className="font-normal text-base text-white"></p>
+            <p className="font-bold text-4xl text-white">2006</p>
             
           </div>
         ),
@@ -317,7 +316,7 @@ const cards3 = [
         id: 16,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+            <p className="font-bold text-4xl text-white">2006</p>
             
           </div>
         ),
@@ -330,7 +329,7 @@ const cards4 = [
     id: 17,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">2011</p>
         
       </div>
     ),
@@ -341,7 +340,7 @@ const cards4 = [
     id: 18,
     content:(
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">2011</p>
         
       </div>
     ),
@@ -352,8 +351,8 @@ const cards4 = [
     id: 19,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
-        <p className="font-normal text-base text-white"></p>
+        <p className="font-bold text-4xl text-white">2011</p>
+
         
       </div>
     ),
@@ -364,7 +363,7 @@ const cards4 = [
     id: 20,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-bold text-4xl text-white">2011</p>
         
       </div>
     ),
@@ -377,7 +376,7 @@ const cards5 = [
     id: 21,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">NJFC Sunday Service @ Samaj Hall, Kurla Camp,Ulhasnagar-4 2014</p>
         
       </div>
     ),
@@ -388,7 +387,7 @@ const cards5 = [
     id: 22,
     content:(
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">NJFC Sunday Service @ Samaj Hall, Kurla Camp,Ulhasnagar-4 2014</p>
         
       </div>
     ),
@@ -399,8 +398,8 @@ const cards5 = [
     id: 23,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
-        <p className="font-normal text-base text-white"></p>
+        <p className="font-bold text-4xl text-white">2015</p>
+
         
       </div>
     ),
@@ -411,7 +410,7 @@ const cards5 = [
     id: 24,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-bold text-4xl text-white">2015</p>
         
       </div>
     ),
@@ -424,7 +423,7 @@ const cards6 = [
     id: 25,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">2015</p>
         
       </div>
     ),
@@ -435,7 +434,7 @@ const cards6 = [
     id: 26,
     content:(
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">2015</p>
         
       </div>
     ),
@@ -446,8 +445,8 @@ const cards6 = [
     id: 27,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
-        <p className="font-normal text-base text-white"></p>
+        <p className="font-bold text-4xl text-white">2018</p>
+
         
       </div>
     ),
@@ -458,7 +457,7 @@ const cards6 = [
     id: 28,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-bold text-4xl text-white">2018</p>
         
       </div>
     ),
@@ -471,7 +470,7 @@ const cards7 = [
     id: 29,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">2018</p>
         
       </div>
     ),
@@ -482,7 +481,7 @@ const cards7 = [
     id: 30,
     content:(
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">NJFC Open Healing Meetings (Ulhasnagar)</p>
         
       </div>
     ),
@@ -493,8 +492,8 @@ const cards7 = [
     id: 31,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
-        <p className="font-normal text-base text-white"></p>
+        <p className="font-bold text-4xl text-white">NJFC Open Healing Meetings (Ulhasnagar)</p>
+
         
       </div>
     ),
@@ -505,7 +504,7 @@ const cards7 = [
     id: 32,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-bold text-4xl text-white">NJFC Open Healing Meetings (Ulhasnagar)</p>
         
       </div>
     ),
@@ -522,42 +521,20 @@ const cards8 = [
     id: 33,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">Rev. Romeo S Gophane 1982</p>
+        <p className="font-bold text-4xl text-white">NJFC Open Healing Meetings (Ulhasnagar)</p>
         
       </div>
     ),
     className: "md:col-span-2",
     thumbnail:
-      "/images/14.2.jpg",
+      "/images/14.4.jpg",
   },
-  {
-    id: 34,
-    content: (
-      <div>
-        <p className="font-bold text-4xl text-white">NJFC 1st church established in Gujarat 1987</p>
-        
-      </div>
-    ),
-    className: "col-span-1",
-    thumbnail:
-    "/images/14.3.jpg",
-  },
-  {
-    id: 35,
-    content: (
-      <div>
-        <p className="font-bold text-4xl text-white">NJFC started in Ulhasnagar in 1993</p>
-        
-      </div>
-    ),
-    className: "col-span-1",
-    thumbnail:"/images/14.4.jpg"
-        },
+
   {
     id: 36,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">NJFC IN NASHIK</p>
        
       </div>
     ),
@@ -573,7 +550,7 @@ const cards9 = [
     id: 37,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-bold text-4xl text-white">NJFC IN NASHIK</p>
         
       </div>
     ),
@@ -589,7 +566,7 @@ const cards9 = [
     id: 38,
     content:(
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">NJFC IN NASHIK</p>
         
       </div>
     ),
@@ -600,8 +577,8 @@ const cards9 = [
     id: 39,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
-        <p className="font-normal text-base text-white"></p>
+        <p className="font-bold text-4xl text-white">NJFC IN NASHIK</p>
+        
         
       </div>
     ),
@@ -612,7 +589,7 @@ const cards9 = [
     id: 40,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-bold text-4xl text-white">NJFC in JALNA (Rajur)</p>
         
       </div>
     ),
@@ -628,7 +605,7 @@ const cards10 = [
         id: 41,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">Rev. Romeo S Gophane 1982</p>
+            <p className="font-bold text-4xl text-white">NJFC in JALNA (Rajur)</p>
             
           </div>
         ),
@@ -640,7 +617,7 @@ const cards10 = [
         id: 42,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">NJFC 1st church established in Gujarat 1987</p>
+            <p className="font-bold text-4xl text-white">NJFC in JALNA (Rajur)</p>
             
           </div>
         ),
@@ -652,7 +629,7 @@ const cards10 = [
         id: 43,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">NJFC started in Ulhasnagar in 1993</p>
+            <p className="font-bold text-4xl text-white">NJFC in JALNA (Rajur)</p>
             
           </div>
         ),
@@ -663,7 +640,7 @@ const cards10 = [
         id: 44,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">NJFC started in Ulhasnagar in 1993</p>
+            <p className="font-bold text-4xl text-white">NJFC in JALNA (Nalni)</p>
            
           </div>
         ),
@@ -678,7 +655,7 @@ const cards11 = [
         id: 45,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+            <p className="font-bold text-4xl text-white">NJFC in JALNA (Nalni)</p>
             
           </div>
         ),
@@ -689,7 +666,7 @@ const cards11 = [
         id: 46,
         content:(
           <div>
-            <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+            <p className="font-bold text-4xl text-white">NJFC in JALNA (Nalni)</p>
             
           </div>
         ),
@@ -700,7 +677,7 @@ const cards11 = [
         id: 47,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+            <p className="font-bold text-4xl text-white">NJFC in JALNA (Nalni)</p>
             <p className="font-normal text-base text-white"></p>
             
           </div>
@@ -712,7 +689,7 @@ const cards11 = [
         id: 48,
         content: (
           <div>
-            <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+            <p className="font-bold text-4xl text-white">NJFC in JALNA (Tembhurni)</p>
             
           </div>
         ),
@@ -725,7 +702,7 @@ const cards12 = [
     id: 49,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">NJFC in JALNA (Tembhurni)</p>
         
       </div>
     ),
@@ -736,7 +713,7 @@ const cards12 = [
     id: 50,
     content:(
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">NJFC in JALNA (Tembhurni)</p>
         
       </div>
     ),
@@ -747,9 +724,8 @@ const cards12 = [
     id: 51,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
-        <p className="font-normal text-base text-white"></p>
-        
+        <p className="font-bold text-4xl text-white">NJFC in JALNA (Tembhurni)</p>
+       
       </div>
     ),
     className: "col-span-1",
@@ -759,7 +735,7 @@ const cards12 = [
     id: 52,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-bold text-4xl text-white">OPEN MEETING IN GUJRAT 2017</p>
         
       </div>
     ),
@@ -772,7 +748,7 @@ const cards13 = [
     id: 53,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">OPEN MEETING IN GUJRAT 2017</p>
         
       </div>
     ),
@@ -783,7 +759,7 @@ const cards13 = [
     id: 54,
     content:(
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">OPEN MEETING IN GUJRAT 2017</p>
         
       </div>
     ),
@@ -794,7 +770,7 @@ const cards13 = [
     id: 55,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-bold text-4xl text-white">OPEN MEETING IN GUJRAT 2017</p>
         <p className="font-normal text-base text-white"></p>
         
       </div>
@@ -806,7 +782,7 @@ const cards13 = [
     id: 56,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-bold text-4xl text-white">Old Age Home ministry</p>
         
       </div>
     ),
@@ -819,7 +795,7 @@ const cards14 = [
     id: 57,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">Old Age Home ministry</p>
         
       </div>
     ),
@@ -830,7 +806,7 @@ const cards14 = [
     id: 58,
     content:(
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">Old Age Home ministry</p>
         
       </div>
     ),
@@ -841,8 +817,8 @@ const cards14 = [
     id: 59,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
-        <p className="font-normal text-base text-white"></p>
+        <p className="font-bold text-4xl text-white">Old Age Home ministry</p>
+        
         
       </div>
     ),
@@ -853,7 +829,7 @@ const cards14 = [
     id: 60,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">ELM Rayakotta 4 Month Bible School 1996</p>
+        <p className="font-bold text-4xl text-white">NJFC  cares for Widows & Senior Citizens  </p>
         
       </div>
     ),
@@ -866,7 +842,7 @@ const cards15 = [
     id: 61,
     content: (
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">NJFC  cares for Widows & Senior Citizens  </p>
         
       </div>
     ),
@@ -877,7 +853,7 @@ const cards15 = [
     id: 62,
     content:(
       <div>
-        <p className="font-bold text-4xl text-white">By the Grace of God, I went to Kerala for ministry in 1994</p>
+        <p className="font-bold text-4xl text-white">NJFC organizing medical camps</p>
         
       </div>
     ),
